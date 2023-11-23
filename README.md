@@ -13,12 +13,6 @@ Me encontro na área de TI a aproximadamente a quase 2 anos já, atuando princip
 Curso Atualmente Análise e Desenvolvimento de Sistemas, com previsão de terminar no fim do ano de 2025. Já pratico em  vários projetos e tenho muitos futuros planos para desenvolver e consolidar neste âmbito, como também a confecção de um aplicativo totalmente novo que farei no meu TCC.
 
 
-## Aqui você encontra:
--> Python
--> MySql
--> Fast API
--> Django
-
 
 ## Tecnologias
 
@@ -27,6 +21,12 @@ Curso Atualmente Análise e Desenvolvimento de Sistemas, com previsão de termin
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
+![Django](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Django)
+
+![Fast API](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=FastAPI)
+
+![MySql](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=MySql)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunoGRS&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
