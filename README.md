@@ -13,6 +13,12 @@ Me encontro na área de TI a aproximadamente a quase 2 anos já, atuando princip
 Curso Atualmente Análise e Desenvolvimento de Sistemas, com previsão de terminar no fim do ano de 2025. Já pratico em  vários projetos e tenho muitos futuros planos para desenvolver e consolidar neste âmbito, como também a confecção de um aplicativo totalmente novo que farei no meu TCC.
 
 
+## Aqui você encontra:
+-> Python
+-> MySql
+-> Fast API
+-> Django
+
 
 ## Tecnologias
 
