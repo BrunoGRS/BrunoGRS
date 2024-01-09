@@ -24,9 +24,7 @@ Curso Atualmente Análise e Desenvolvimento de Sistemas, com previsão de termin
 
 ![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql)
 
-![JavaScript](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=javascript)
-
-![Node](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=nodejs)
+![Js](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunoGRS&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
