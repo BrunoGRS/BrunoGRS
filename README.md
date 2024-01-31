@@ -16,17 +16,16 @@ Curso Atualmente Análise e Desenvolvimento de Sistemas, com previsão de termin
 
 ## Tecnologias
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-
-![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql)
-
-![Js](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunoGRS&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+- Node JS
+- Express
+- Mongo DB
+- MySQL
+- Postgres
+- Mongoose
+- Docker
+- Nodemon
+- Git
+- Python
 
 
 
