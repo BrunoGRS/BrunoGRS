@@ -26,6 +26,7 @@ Curso Atualmente Análise e Desenvolvimento de Sistemas, com previsão de termin
 - Nodemon
 - Git
 - Python
+- Sequelize
 
 
 
