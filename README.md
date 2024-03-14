@@ -18,11 +18,11 @@ Curso Atualmente Análise e Desenvolvimento de Sistemas, com previsão de termin
 
 - Node JS
 - Express
-- Mongo DB
+- Mongo DB ( Aprendendo )
 - MySQL
 - Postgres
 - Mongoose
-- Docker
+- Docker ( Aprendendo )
 - Nodemon
 - Git
 - Python
