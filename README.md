@@ -6,7 +6,7 @@ Me chamo Bruno e sou um entusiasta da tecnologia e programação. Meu foco é ba
 
 ## 👨🏻‍💻 Sobre Mim
 
-Me encontro na área de TI a aproximadamente a quase 2 anos já, atuando principalmente com suporte de usuários e sistemas. Nesses dois anos já colecionei muitas experiências e erros pelo caminho, tudo o que me fez evoluir e crescer como profissional dentro da minha carreira. Atualmente ocupo o lugar de Analista de Suporte de TI porém pretendo migrar para a carreira 100% dev nos próximos anos.
+Me encontro na área de TI a aproximadamente a quase 3 anos já, atuando principalmente com suporte de usuários e sistemas. Nesses dois anos já colecionei muitas experiências e erros pelo caminho, tudo o que me fez evoluir e crescer como profissional dentro da minha carreira. Atualmente ocupo o lugar de Analista de Suporte de TI porém pretendo migrar para a carreira 100% dev nos próximos anos.
 
 
 
